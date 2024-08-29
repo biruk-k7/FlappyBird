@@ -1,4 +1,4 @@
-For the final project I will be making the classic Flappy Bird game.
+**The classic Flappy Bird game.**
 
 
 Guide to the player:
@@ -8,7 +8,7 @@ Navigate the flappy bird through a series of pipes using the space bar key to ma
 
 How the game works:
 
-I will have two classes for the two objects: the Bird and the Pipe.(I will make use of array of pipes to store the pipes involved in the game). The above classes will also take care of creating the objects, thier componets, sounds, drwing them, changing their positions and also updating them when necessary. I will make use od StdDraw to draw the Bird and Pipe object and StdAudio to make sounds as the bird jumps or the player looses.
+It will have two classes for the two objects: the Bird and the Pipe.(I will make use of array of pipes to store the pipes involved in the game). The above classes will also take care of creating the objects, thier componets, sounds, drwing them, changing their positions and also updating them when necessary. I will make use od StdDraw to draw the Bird and Pipe object and StdAudio to make sounds as the bird jumps or the player looses.
 
 The "Project.java" class contains the main class and the "FlappyBird" class will contain different calls of methods in the Bird and pipe object with in an infinite while loop, pipes will be drawn with random value of 'y' so that they have random gap of course with a predetermind range. Additionally, It will also contain other methods of its own to restart the game, check for collision, and also keep track of the current and high scores.
 
