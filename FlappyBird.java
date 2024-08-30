@@ -1,3 +1,4 @@
+//GAME Scene
 import java.awt.*;
 public class FlappyBird {
     private static boolean gameover =false;

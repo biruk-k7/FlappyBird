@@ -1,5 +1,6 @@
 public class Pipe {
 
+
     private double x;
     private double y;
     static final double GAP = 500;
@@ -20,7 +21,7 @@ public class Pipe {
         return y;
     }
 
-    //Bird doesn't move horizontally just the pipe moves towards the bird :)
+    //Bird doesn't move horizontally just the pipe moves towards the bird:)
     public void move() {
         x -= 4.8;
     }

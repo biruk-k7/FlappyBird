@@ -3,6 +3,8 @@ public class Bird {
     private double y;
     private double velocity;
 
+
+
     //Constructor
     public Bird(double x, double y) {
 
@@ -34,6 +36,7 @@ public class Bird {
     public void jump() {
 
         velocity = 5;
+        //SOLVED
         StdAudio.playInBackground("flappy-bird.wav");
     }
 

@@ -1,6 +1,7 @@
 public class Project {
     public static void main(String[] args) {
 
+        
         //setting up the canvas
         StdDraw.setCanvasSize(800, 600);
         StdDraw.setXscale(0, 800);
