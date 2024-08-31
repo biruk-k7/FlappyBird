@@ -1,4 +1,4 @@
-**The classic Flappy Bird game.**
+Flappy Bird game
 
 
 Guide to the player:
