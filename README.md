@@ -1,5 +1,6 @@
 Flappy Bird game
 
+![flappy-bird](https://github.com/user-attachments/assets/e7014234-63a4-429e-af5c-bed9a29b2b51)
 
 Guide to the player:
 
